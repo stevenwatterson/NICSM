@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ulster University BioBank",
-    "currentPage": "index.html",
+    "currentPage": "ForResearchers.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1597,30 +1597,6 @@
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>\nThe Ulster University BioBank holds samples with integrated clinical data and robust laboratory measures of genomic, proteomic and metabolomics determinants. This includes whole genome sequences, multiplex protein assays and methylation assays. &nbsp;The biobank concentrate on diseases that each have shared genetic, lifestyle or dietary determinants, with a particular interest in shared inflammatory aetiologies. &nbsp;</p><p>We have a common genomic, proteomic and clinical data across all core dieasea areas facilitating cross comparisons and the exploration of multimorbidity. &nbsp;&nbsp;</p><p>The Ulster University BioBank aims to facilitate the discovery and validation of biomarkers associated with disease predisposition and the response to therapy, and ultimately more effective drugs. &nbsp;This includes the development of stratified/personalised/precision medicine diagnostic tools and technologies.\n</p><p>\nWe hold patient samples and data across the following disease areas and currently cover ~7000 participants.</p><p><span style=\"font-size: 1rem;\">Ethical governence of all our studies is overseen by the <a href=\"http://www.hscbusiness.hscni.net/orecni.htm\">Office for Research Ethics Committees Northern Ireland</a>&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">The Northern Ireland Centre for Stratified Medicine has extensive capabilities in human tissue storage, processing and analyses, utilising a barcoded computerised system compliant with the Human Tissue Act (HTA).\n &nbsp;</span><span style=\"font-size: 1rem;\">The Unit is managed by a Quality Assurance Officer as a core facility with a dedicated support team with access to i)&nbsp;</span><span style=\"font-size: 1rem;\">Pressure fed Vapour Phase Cryo Storage System with capacity for up to 22,000 samples, ii)</span><span style=\"font-size: 1rem;\">&nbsp;1.2 million sample capacity in thirty five -80° freezer units in a dedicated temperature controlled environment utilising item tracker labelling and traceability software, iii)&nbsp;</span><span style=\"font-size: 1rem;\">AAW WebReact Temperature Monitoring System.</span><br><span style=\"font-size: 1rem;\"></span></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rkvQQ1MoED",
           "_anchor": "content1-1i",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text B": {
-              "color": "#102c51"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><b>Ulster University Biobank: Samples and Data</b></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-c",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise4",
-          "_cid": "rlV8UyW3QK",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
