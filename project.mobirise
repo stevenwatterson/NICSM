@@ -24,7 +24,7 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
@@ -40,7 +40,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 13,
+    "uniqCompNum": 3,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1655,11 +1655,11 @@
           "_name": "content12",
           "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#102c51\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>CARDIOVASCULAR DISEASE</b> - We hold samples and data for ~350 CVD patients with 300+ clinical measurements per patient including follow up data. Data sets additionally include multiplex protein assay measurements, whole genome sequences, SNP genotyping, ECG data and CT angiograms.  \n</li><li><b>TYPE 2 DIABETES</b> - We hold samples and data for 500 T2D patients with ~50 clinical measurements per patient (including HbA1c, c-peptide, BMI, lipid profiles). Data sets additionally include multiplex protein assay measurements, whole genome sequences and SNP genotyping.\n</li><li><b>RHEUMATOID ARTHRITIS</b> - We hold samples and data for 360 RA patients with 200+ clinical measurements per patient including follow up data. Data sets additionally include multiplex protein assay measurements, whole genome sequences and SNP genotyping.</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rlV5NPg9bl",
+          "_anchor": "content12-9",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content12-9"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1712,13 +1712,13 @@
             }
           },
           "_name": "content12",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#102c51\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>MENTAL HEALTH </b>- We hold samples and data for over 400 individuals with mental health disorders and over 400 matched healthy controls with 100+ clinical measurements per individual. Data sets additionally include multiplex protein assay measurements, genome-wide DNA methylation analysis, 16S microbiome, whole genome sequences and SNP genotyping.</li>\n                    <li><b>NEUROMUSCULAR DISEASE </b>-</li>\n                    <li><b>MULTIPLE MYELOMA</b>&nbsp;-</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#102c51\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>MENTAL HEALTH </b>- We hold samples and data for over 400 individuals with mental health disorders and over 400 matched healthy controls with 100+ clinical measurements per individual. Data sets additionally include multiplex protein assay measurements, genome-wide DNA methylation analysis, 16S microbiome, whole genome sequences and SNP genotyping.</li>\n                    <li><b>NEUROMUSCULAR DISEASE </b>-The centre hosts a highly innovative project investigating muscle as a secretory organ releasing exosomes and other types of vesicle, exploring the role of muscle in motor neuron disorders and focussing on Amyotrophic Lateral Sclerosis (ALS), Spinal-Bulbar Muscular Atrophy (SBMA) and Spinal Muscular Atrophy types III/IV (SMA-III/IV). Muscle cells and other sample types are stored, as well as proteomic and transcriptomic data on muscle cells and their secretory products.</li>\n                    <li><b>MULTIPLE MYELOMA</b>&nbsp;-</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rlV6bkji0D",
+          "_anchor": "content12-a",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content12-a"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1773,11 +1773,11 @@
           "_name": "content12",
           "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#102c51\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>EYE DISEASES</b>&nbsp;-</li>\n                    <li><b>BIOINFORMATICS SERVICES</b>&nbsp;- We have in house expertise in the analysis of genomic, proteomic and molecular data, in working with electronic health care records and in the use of machine learning techniques to understand disease, facilitate therapy development and undertake biomarker discovery.&nbsp;</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rlV6M8TpHa",
+          "_anchor": "content12-b",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content12-b"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1934,11 +1934,11 @@
           "_name": "content11",
           "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked=\"\">\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline=\"\" mbr-article=\"\">\n                <ol>\n                    <li><b>MOBILE FRIENDLY</b> - no special actions required, all sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site, it will adapt automagically. <a href=\"https://mobirise.co/\">Try it now!</a></li>\n                    <li><b>EASY AND SIMPLE</b> - cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required. <a href=\"https://mobirise.co/\">Try it now!</a></li>\n                    <li><b>UNIQUE STYLES</b> - choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. <a href=\"https://mobirise.co/\">Try it now!</a></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rlUFZTtJJU",
+          "_anchor": "content11-3",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content11-3"
+          "_params": {}
         }
       ]
     },
